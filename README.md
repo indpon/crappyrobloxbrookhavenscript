@@ -1,1 +1,1 @@
-# crappyrobloxbrookhavenscript
+Just a safe scanner
